@@ -31,7 +31,7 @@
 - npm run dev
 
 3. In un altro terminale aprire la cartella 'backend' all'interno della cartella 'reactApp'
-4. Eseguire i comandi:
+4. Eseguire il comando:
 
 - node server.js
 
