@@ -2,4 +2,4 @@
 
 ## Requisiti
 
-## Installazione
+## Installazione e avvio
